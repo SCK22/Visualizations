@@ -3,7 +3,7 @@ Visualizations on data from various sources, including data.gov.in
 
 **AQI**
 
-[![Watch the Video](https://github.com/SCK22/Visualizations/blob/dev/AQI/videos/aqi%20-%20Power%20BI%20Desktop%202019-09-27%2013-06-33.mp4)](https://github.com/SCK22/Visualizations/blob/dev/AQI/videos/aqi%20-%20Power%20BI%20Desktop%202019-09-27%2013-06-33.mp4)
+[![Watch the Video](https://youtu.be/6X9Y2pAqCqU)](https://youtu.be/6X9Y2pAqCqU)
 
 If you have loaded new data from the api,
 
