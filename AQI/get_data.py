@@ -5,7 +5,7 @@ import pandas as pd
 offset = 0
 
 base_url  = "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69"
-api_key = "579b464db66ec23bdd000001763363f53cf54d2b66eeebd2e01749c2"
+api_key = "Your API Key"
 data_format = "json"
 offset = 0
 
