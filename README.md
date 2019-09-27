@@ -4,7 +4,7 @@ Visualizations on data from various sources, including data.gov.in
 **AQI**
 
 
-[![Watch the Video](https://youtu.be/6X9Y2pAqCqU)](https://youtu.be/6X9Y2pAqCqU)
+[![Watch the Video](https://youtu.be/6X9Y2pAqCqU)
 
 If you have loaded new data from the api,
 
