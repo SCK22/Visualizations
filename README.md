@@ -8,8 +8,8 @@ Visualizations on data from various sources, including data.gov.in
 
 If you have loaded new data from the api,
 
-1. Open the power BI file, go to edit queries, change the source path to the path of the csv file and close and apply changes
-2. Refresh the powerbi data to load the updated data
+1. Open the power BI file, go to edit queries, change the source path to the path of the data folder (containing the csv files)  and close and apply changes
+2. Refresh the powerbi data to update the data and the visuals
 
 data api : https://data.gov.in/resources/real-time-air-quality-index-various-locations/api
 
