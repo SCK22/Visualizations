@@ -26,7 +26,7 @@ while retrieved_rows < 100000:
 
 df = pd.DataFrame(data)  
 # print(df.head())
-last_update = df.last_update[0]
+last_update = df.last_update.max()
 last_update = "-".join(last_update.split(" "))
 last_update = "-".join(last_update.split(":"))
 print(last_update)
